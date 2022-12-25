@@ -1,0 +1,23 @@
+.news{
+    width: 900px;
+    margin-top: 80px;
+    border: white;
+    border-style: double;
+}
+
+.heading{
+    font-weight: 1000;
+    font-size: 50px;
+    font-family: Montserrat;
+    text-align: left;
+    color: antiquewhite;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.maintext{
+    font-size: 25px;
+    font-family: Arial;
+    text-align: justify;
+    color: white;
+}
